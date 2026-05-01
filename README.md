@@ -89,7 +89,7 @@ Final Scores → User: 27 | AI: 28
 ### Run Locally
 
 ```bash
-git clone https://github.com/<your-username>/CatchUp-Game-MinMax-Python.git
+git clone https://github.com/PriyankaMenghare/CatchUp-Game-MinMax-Python.git
 cd CatchUp-Game-MinMax-Python
 jupyter notebook CatchUp-MinMax-AI.ipynb
 ```
